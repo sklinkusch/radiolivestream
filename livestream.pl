@@ -3,6 +3,7 @@
 # Skript zum einfacheren Empfang von Internet-Livestreams diverser Radiosender
 use strict;
 use warnings;
+use FindBin;
 
 my %mpv_options = ("mp3" => "--volume-max 200 --cache-secs 20", "m3u" => "--volume-max 200 --cache-secs 20", "aac" => "--volume-max 200 --cache-secs 20", "else" => "--volume-max 200 --cache-secs 20");
 my %mpv = ("player" => "mpv", "options" => \%mpv_options);
@@ -66,7 +67,8 @@ sub switch_sender {
 
 sub get_senderliste {
 	my %res;
-	open(LIST, "/home/stefan/bin/livestream.list") || die "Kann Senderliste nicht öffnen!\n";
+	my $listfile = "$FindBin::RealBin/livestream.list";
+	open(LIST, $listfile) || die "Kann Senderliste nicht öffnen!\n";
 	while (my $line = <LIST>){
 		chomp($line);
 		if($line !~ /^#/) {

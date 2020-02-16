@@ -1,0 +1,140 @@
+#### List of stream urls of radio networks
+### France
+https://live-reflector.ice.infomaniak.ch/rfimonde-64.mp3	radiofranceinternationale	rfi	rfi-paris
+### Germany
+## Public
+# Countrywide
+http://www.dradio.de/streaming/dlf.m3u	deutschlandfunk	dlf
+http://www.dradio.de/streaming/dkultur.m3u	deutschlandradiokultur	dlrkultur
+http://www.dradio.de/streaming/dradiowissen.m3u	deutschlandradionova	dradionova	dnova
+# Bayerischer Rundfunk (BR): Bavaria
+http://streams.br.de/bayern1fran_2.m3u	br1mittelfranken	br1oberfranken
+http://streams.br.de/bayern1main_2.m3u	br1mainfranken
+http://streams.br.de/bayern1obb_2.m3u	br1oberbayern
+http://streams.br.de/bayern1nbopf_2.m3u	br1niederbayern	b1oberpfalz
+http://streams.br.de/bayern1schw_2.m3u	br1schwaben
+http://streams.br.de/bayern2nord_2.m3u	br2nord	brkulturnord
+http://streams.br.de/bayern2sued_2.m3u	br2sued	brkultursued
+http://streams.br.de/bayern3_2.m3u	br3	bayern3
+http://streams.br.de/br-klassik_2.m3u	brklassik
+http://streams.br.de/b5aktuell_2.m3u	b5aktuell	br5aktuell	brinfo
+http://streams.br.de/bayernplus_2.m3u	bayernplus	brplus
+http://streams.br.de/brheimat_2.m3u	brheimat
+http://streams.br.de/puls_2.m3u	brpuls	puls
+# Hessischer Rundfunk (HR): Hesse
+http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u	hr1
+http://metafiles.gl-systemhaus.de/hr/hr2_2.m3u	hr2	hrkultur
+http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u	hr3
+http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u	hr4
+http://www.metafilegenerator.de/HR/hrinfo/mp3/webm.m3u	hrinfo
+http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u	hryoufm	youfm
+# Mitteldeutscher Rundfunk (MDR): Saxony, Saxony-Anhalt, Thuringia
+https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3	mdr1sachsen-dresden	mdr1sachsen-dd	mdr1sn-dresden	mdr1sn-dd
+https://mdr-284280-1.sslcast.mdr.de/mdr/284280/1/mp3/high/stream.mp3	mdr1sachsen-bautzen	mdr1sachsen-bz	mdr1sn-bautzen	mdr1sn-bz
+https://mdr-284280-2.sslcast.mdr.de/mdr/284280/2/mp3/high/stream.mp3	mdr1sachsen-chemnitz	mdr1sachsen-c	mdr1sn-chemnitz	mdr1sn-c
+https://mdr-284280-3.sslcast.mdr.de/mdr/284280/3/mp3/high/stream.mp3	mdr1sachsen-leipzig	mdr1sachsen-l	mdr1sn-leipzig	mdr1sn-l
+https://mdr-284290-0.sslcast.mdr.de/mdr/284290/0/mp3/high/stream.mp3	mdr1sachsenanhalt-magdeburg	mdr1sachsenanhalt-md	mdr1sa-magdeburg	mdr1sa-md
+https://mdr-284290-1.sslcast.mdr.de/mdr/284290/1/mp3/high/stream.mp3	mdr1sachsenanhalt-dessau	mdr1sachsenanhalt-de	mdr1sa-dessau	mdr1sa-de
+https://mdr-284290-2.sslcast.mdr.de/mdr/284290/2/mp3/high/stream.mp3	mdr1sachsenanhalt-halle	mdr1sachsenanhalt-hal	mdr1sa-halle	mdr1sa-hal
+https://mdr-284290-3.sslcast.mdr.de/mdr/284290/3/mp3/high/stream.mp3	mdr1sachsenanhalt-stendal	mdr1sachsenanhalt-sdl	mdr1sa-stendal	mdr1sa-sdl
+https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/mp3/high/stream.mp3	mdr1thueringen-erfurt	mdr1thueringen-ef	mdr1th-erfurt	mdr1th-ef
+https://mdr-284300-1.sslcast.mdr.de/mdr/284300/1/mp3/high/stream.mp3	mdr1thueringen-gera	mdr1thueringen-g	mdr1th-gera	mdr1th-g
+https://mdr-284300-2.sslcast.mdr.de/mdr/284300/2/mp3/high/stream.mp3	mdr1thueringen-heiligenstadt	mdr1thueringen-hig	mdr1th-heiligenstadt	mdr1th-hig
+https://mdr-284300-3.sslcast.mdr.de/mdr/284300/3/mp3/high/stream.mp3	mdr1thueringen-suhl	mdr1thueringen-shl	mdr1th-suhl	mdr1th-shl
+https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3	mdraktuell	mdrinfo
+https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3	mdrkultur
+https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3	mdrklassik
+https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3	mdrjump	jump
+https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3	mdrsputnik	sputnik
+https://mdr-991101-0.sslcast.mdr.de/mdr/991101/0/mp3/high/stream.mp3	mdrtweens	tweens
+https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3	mdrschlagerwelt	schlagerwelt
+# Norddeutscher Rundfunk (NDR): Hamburg, Mecklenburg-Western Pomerania, Lower Saxony, Schleswig-Holstein
+http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u	ndr1niedersachsen	ndr1nisa
+http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u	ndr1mecklenburgvorpommern	ndr1mv
+http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u	ndr1hamburg	ndr1hh	ndr1903	ndr90.3	ndr1-90.3	ndr1-903
+http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u	ndr1schleswigholstein	ndr1sh	ndr1wellenord
+http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u	ndr2
+http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u	ndrkultur
+http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u	ndrinfo
+http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_spezial.m3u	ndrinfospezial
+http://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u	ndrnjoy	njoy
+http://www.ndr.de/resources/metadaten/audio/m3u/ndrmusikplus.m3u	ndrmusikplus	musikplus
+# Radio Bremen (RB): Bremen
+http://httpmedia.radiobremen.de/bremeneins.m3u	rbeins	bremeneins
+http://httpmedia.radiobremen.de/bremenvier.m3u	rbvier	bremenvier
+http://httpmedia.radiobremen.de/nordwestradio.m3u	rbnordwest	nordwestradio	rbnordwestradio
+# Rundfunk Berlin-Brandenburg (RBB): Berlin, Brandenburg
+http://www.radioberlin.de/live.m3u	radioberlin	rbbradioberlin	radio888	rbb888	rbb88.8
+http://www.antennebrandenburg.de/live.m3u	antennebrandenburg	rbbantennebrandenburg
+http://www.inforadio.de/live.m3u	inforadio	rbbinforadio	rbbinfo
+http://www.radioeins.de/live.m3u	radioeins	rbbradioeins
+http://www.fritz.de/live.m3u	fritz	rbbfritz
+http://www.kulturradio.de/live.m3u	kulturradio	rbbkulturradio	rbbkultur
+# Saarländischer Rundfunk (SR): Saarland
+http://streaming01.sr-online.de/sr1_2.m3u	sr1
+http://streaming01.sr-online.de/sr2_2.m3u	sr2	srkultur
+http://streaming01.sr-online.de/sr3_2.m3u	sr3
+http://streaming01.sr-online.de/unserding_2.m3u	srunserding	1037unserding	unserding	103.7unserding
+# Südwestrundfunk (SWR): Baden-Württemberg, Rhineland-Palatinate
+http://mp3-live.swr.de/swr1bw_m.m3u	swr1badenwuerttemberg	swr1bw
+http://mp3-live.swr.de/swr1rp_m.m3u	swr1rheinlandpfalz	swr1rp
+http://mp3-live.swr.de/swr2_m.m3u	swr2	swrkultur
+http://mp3-live.swr3.de/swr3_m.m3u	swr3
+http://mp3-live.swr.de/swr4bw_m.m3u	swr4badenwuerttemberg	swr4bw
+http://mp3-live.swr.de/swr4rp_m.m3u	swr4rheinlandpfalz	swr4rp
+http://mp3-live.dasding.de/dasding_m.m3u	swrdasding	dasding
+https://swr-swraktuell-live.sslcast.addradio.de/swr/swraktuell/live/aac/48/stream.aac	swraktuell	swrinfo
+https://swr-swr2-live.sslcast.addradio.de/swr/swr2/live/aac/48/stream.aac	swr2archivradio	swr2archiv
+# Westdeutscher Rundfunk (WDR): North Rhine-Westphalia
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8	wdreinslive	wdr1live	einslive	1live
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/master.m3u8	wdreinslivediggi	wdr1livediggi	einslivediggi	1livediggi
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/master.m3u8	wdr2	wdr2-koeln	wdr2-k	wdr2-rheinland
+https://wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/master.m3u8	wdr2-ostwestfalenlippe	wdr2-bielefeld	wdr2-owl	wdr2-bi
+https://wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/master.m3u8	wdr2-muensterland	wdr2-muenster	wdr2-ms
+https://wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/master.m3u8	wdr2-ruhrgebiet	wdr2-dortmund	wdr2-do
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/master.m3u8	wdr2-rheinruhr	wdr2-duesseldorf	wdr2-d	wdr2-essen	wdr2-e
+https://wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/master.m3u8	wdr2-bergischesland	wdr2-wuppertal	wdr2-w
+https://wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/master.m3u8	wdr2-suedwestfalen	wdr2-siegen	wdr-si
+https://wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/master.m3u8	wdr2-aachen	wdr2-ac
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/master.m3u8	wdr3	wdrkultur
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/master.m3u8	wdr4
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/master.m3u8	wdr5
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/master.m3u8	wdrevent
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8	wdrcosmo	cosmo
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/master.m3u8	wdrmaus	diesendungmitdermaus	diemaus
+## Private
+http://ice.rosebud-media.de:8000/88vier	88vier
+http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/dynam.pls	berlinerrundfunk	berlinerrundfunk914	berlinerrundfunk91.4
+http://stream.rs2.de/rs2/mp3-128/internetradio/m3u1461.m3u	rs2	94.3rs2	943rs2
+http://stream.kissfm.de/kissfm/mp3-128/internetradio/	kissfm
+http://energyradio.de/berlin	energy-berlin
+https://starfm-3.explodio.com/berlin.mp3	starfm	879starfm	starfm-berlin	87.9starfm
+https://streamtdy.ir-media-tec.com/live/mp3-128/radioplayer_web/play.mp3	teddy	radioteddy
+https://sec-jamfm.hoerradar.de/jamfm-mp3-128?sABC=5r09ro6o%230%2397q4515247s1nq88n616823682017s19%23xbafbyr&context=fHA6LTE=&amsparams=playerid:konsole;skey:1577708395	jamfm	jamfm936	jamfm93.6
+https://stream.rs2.de/rs2/mp3-128/website/;stream.nsv?aw_0_1st.kuid=&aw_0_1st.ksg=%5B%5D	rs2	943rs2	94.3rs2
+https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3	radiob2
+https://klang.center:8443/paradiso.bln.mp3	paradiso	radioparadiso
+http://streams.fluxfm.de/source-fluxfm-simulcast/mp3-128/streams.fluxfm.de/play.pls	fluxfm
+https://stream.klassikradio.de/live/mp3-128/7Digital	klassikradio
+http://mfm1.webradiostreaming.de:8250/1	metropol	metropolfm
+https://sec-rtlberlin.hoerradar.de/rtlberlin-live-mp3-128	rtl104.6	rtl1046	104.6rtl	1046rtl
+https://stream.spreeradio.de/spree-live/mp3-128/konsole/	spreeradio	spreeradio1055	spreeradio105.5	1055spreeradio	105.5spreeradio
+http://streaming.radio.co/s774887f7b/listen.m3u	jazzradio	jazzradio106.8	jazzradio1068	1068jazzradio	106.8jazzradio
+### United Kingdom
+## Public
+# BBC
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws	bbcworldnews
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p	bbc1	bbcradio1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p	bbc1xtra	bbcradio1xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p	bbc2	bbcradio2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p	bbc3	bbcradio3
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p	bbc4fm	bbcradio4fm
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p	bbc4lw	bbcradio4lw
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p	bbc4extra	bbcradio4extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p	bbc5live	bbcradio5live
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8	bbc5livesportsballextra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p	bbc6music	bbcradio6music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p	bbcasia	bbcasiannetwork
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk	bbcworlduk
+### United States
+http://public.npr.org/anon.npr-mp3/npr/news/newscast.mp3	nationalpublicradio	npr	npr-washington

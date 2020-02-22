@@ -17,6 +17,7 @@ my $sender = "$ARGV[0]";
 my %senderliste;
 my @all_sender;
 my @all_sender_sorted;
+my @linkliste;
 if ($sender eq "list"){
 	%senderliste = get_senderliste();
 	@all_sender = keys(%senderliste);
@@ -40,6 +41,11 @@ if ($sender eq "list"){
 		print "$cur_sender => $senderliste{$cur_sender}\n";
 	}
 	exit;
+} elsif ($sender eq "number") {
+        @linkliste = get_urls();
+        print scalar @linkliste;
+        print "\n";
+        exit;
 }
 switch_sender($sender);
 
@@ -80,6 +86,21 @@ sub get_senderliste {
 	}
 	close(LIST);
 	return %res;
+}
+
+sub get_urls {
+        my @res;
+        my $listfile = "$FindBin::RealBin/livestream.list";
+        open(LIST,$listfile) || die "Kann Senderliste nicht öffnen!\n";
+        while (my $line = <LIST>){
+                chomp($line);
+                if($line !~ /^#/) {
+                        my @linearray = split(/[\t ]+/,$line);
+                        push(@res,$linearray[0]);
+                }
+        }
+        close(LIST);
+        return @res;
 }
 
 

@@ -72,7 +72,7 @@ sub get_senderliste {
 	while (my $line = <LIST>){
 		chomp($line);
 		if($line !~ /^#/) {
-			my @linearray = split(/\t/,$line);
+			my @linearray = split(/[\t ]+/,$line);
 			foreach my $nr (1..$#linearray) {
 				$res{$linearray[$nr]} = $linearray[0];
 			}

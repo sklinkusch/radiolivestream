@@ -18,6 +18,7 @@ http://streams.br.de/bayern2sued_2.m3u	br2sued	brkultursued
 http://streams.br.de/bayern3_2.m3u	br3	bayern3
 http://streams.br.de/br-klassik_2.m3u	brklassik
 http://streams.br.de/b5aktuell_2.m3u	b5aktuell	br5aktuell	brinfo
+http://streams.br.de/b5plus_2.m3u	b5plus
 http://streams.br.de/bayernplus_2.m3u	bayernplus	brplus
 http://streams.br.de/brheimat_2.m3u	brheimat
 http://streams.br.de/puls_2.m3u	brpuls	puls
@@ -41,19 +42,49 @@ https://mdr-284300-0.sslcast.mdr.de/mdr/284300/0/mp3/high/stream.mp3	mdr1thuerin
 https://mdr-284300-1.sslcast.mdr.de/mdr/284300/1/mp3/high/stream.mp3	mdr1thueringen-gera	mdr1thueringen-g	mdr1th-gera	mdr1th-g
 https://mdr-284300-2.sslcast.mdr.de/mdr/284300/2/mp3/high/stream.mp3	mdr1thueringen-heiligenstadt	mdr1thueringen-hig	mdr1th-heiligenstadt	mdr1th-hig
 https://mdr-284300-3.sslcast.mdr.de/mdr/284300/3/mp3/high/stream.mp3	mdr1thueringen-suhl	mdr1thueringen-shl	mdr1th-suhl	mdr1th-shl
+https://mdr-990100-0.sslcast.mdr.de/mdr/990100/0/mp3/high/stream.mp3	serbskirozhlos	mdrsebskirozhlos	mdrsorbisch
 https://mdr-284340-0.sslcast.mdr.de/mdr/284340/0/mp3/high/stream.mp3	mdraktuell	mdrinfo
 https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3	mdrkultur
+http://avw.mdr.de/streams/284311-0_mp3_high.m3u	mdrklassikimkonzert	klassikimkonzert
 https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3	mdrklassik
 https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3	mdrjump	jump
+https://mdr-edge-105b-dus-dtag-cdn.cast.addradio.de/mdr/jump/inthemix/mp3/128/stream.mp3	mdrjumpinthemix	jumpinthemix	mdrinthemix
+https://mdr-edge-2060-fra-lg-cdn.cast.addradio.de/mdr/jump/rock/mp3/128/stream.mp3	mdrjumprock	jumprock
+https://mdr-edge-1060-fra-dtag-cdn.cast.addradio.de/mdr/jump/trend/mp3/128/stream.mp3	mdrjumptrend	mdrtrend	jumptrend
 https://mdr-284330-0.sslcast.mdr.de/mdr/284330/0/mp3/high/stream.mp3	mdrsputnik	sputnik
+https://mdr-edge-105b-dus-dtag-cdn.cast.addradio.de/mdr/sputnik/soundcheck/mp3/128/stream.mp3	mdrsputniksoundcheck	sputniksoundcheck	mdrsoundcheck
+https://mdr-edge-20b1-fra-lg-cdn.cast.addradio.de/mdr/sputnik/insomnia/mp3/128/stream.mp3	mdrsputnikfirstplay	sputnikfirstplay	mdrfirstplay
+https://mdr-edge-20b1-fra-lg-cdn.cast.addradio.de/mdr/sputnik/roboton/mp3/128/stream.mp3	mdrsputnikroboton	sputnikroboton	mdrroboton
+https://mdr-edge-2060-fra-lg-cdn.cast.addradio.de/mdr/sputnik/popkult/mp3/128/stream.mp3	mdrsputnikpopkult	sputnikpopkult	mdrpopkult
+https://mdr-edge-10b1-fra-dtag-cdn.cast.addradio.de/mdr/sputnik/black/mp3/128/stream.mp3	mdrsputnikblack	sputnikblack	mdrblack
+https://mdr-edge-205c-dus-lg-cdn.cast.addradio.de/mdr/sputnik/rock/mp3/128/stream.mp3	mdrsputnikrock	sputnikrock
+https://mdr-edge-205c-dus-lg-cdn.cast.addradio.de/mdr/sputnik/club/mp3/128/stream.mp3	mdrsputnikclub	sputnikclub	mdrclub
 https://mdr-991101-0.sslcast.mdr.de/mdr/991101/0/mp3/high/stream.mp3	mdrtweens	tweens
 https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3	mdrschlagerwelt	schlagerwelt
+https://mdr-edge-20b1-fra-lg-cdn.cast.addradio.de/mdr/meineschlagerwelt/sachsen/mp3/128/stream.mp3	mdrschlagerweltsachsen	mdrschlagerweltsn	schlagerweltsachsen	schlagerweltsn
+https://mdr-edge-10b1-fra-dtag-cdn.cast.addradio.de/mdr/meineschlagerwelt/sachsenanhalt/mp3/128/stream.mp3	mdrschlagerweltsachsenanhalt	mdrschlagerweltsa	schlagerweltsachsenanhalt	schlagerweltsa
+https://mdr-edge-1060-fra-dtag-cdn.cast.addradio.de/mdr/meineschlagerwelt/thueringen/mp3/128/stream.mp3	mdrschlagerweltthueringen	mdrschlagerweltth	schlagerweltthueringen	schlagerweltth
 # Norddeutscher Rundfunk (NDR): Hamburg, Mecklenburg-Western Pomerania, Lower Saxony, Schleswig-Holstein
-http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u	ndr1niedersachsen	ndr1nisa
+http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u	ndr1niedersachsen	ndr1nisa	ndr1ni
+https://ndr-edge-20ac-fra-lg-cdn.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3	ndr1niedersachsen-hannover	ndr1niedersachsen-h	ndr1nisa-hannover	ndr1nisa-h	ndr1ni-hannover	ndr1ni-h
+https://ndr-ndr1niedersachsen-braunschweig.sslcast.addradio.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3	ndr1niedersachsen-braunschweig	ndr1niedersachsen-bs	ndr1nisa-braunschweig	ndr1nisa-bs	ndr1ni-braunschweig	ndr1ni-bs
+https://ndr-edge-1041-dus-dtag-cdn.cast.addradio.de/ndr/ndr1niedersachsen/lueneburg/mp3/128/stream.mp3	ndr1niedersachsen-lueneburg	ndr1niedersachsen-lg	ndr1nisa-lueneburg	ndr1nisa-lg	ndr1ni-lueneburg	ndr1ni-lg
+https://ndr-edge-20b2-fra-lg-cdn.cast.addradio.de/ndr/ndr1niedersachsen/oldenburg/mp3/128/stream.mp3	ndr1niedersachsen-oldenburg	ndr1niedersachsen-ol	ndr1nisa-oldenburg	ndr1nisa-ol	ndr1ni-oldenburg	ndr1ni-ol
+https://ndr-edge-20b2-fra-lg-cdn.cast.addradio.de/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3	ndr1niedersachsen-osnabrueck	ndr1niedersachsen-os	ndr1nisa-osnebrueck	ndr1nisa-os	ndr1ni-osnabrueck	ndr1ni-os
 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u	ndr1mecklenburgvorpommern	ndr1mv
+https://ndr-edge-20ad-fra-lg-cdn.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3	ndr1mecklenburgvorpommern-schwerin	ndr1mecklenburgvorpommern-sn	ndr1mv-schwerin	ndr1mv-sn
+https://ndr-edge-20b2-fra-lg-cdn.cast.addradio.de/ndr/ndr1radiomv/greifswald/mp3/128/stream.mp3	ndr1mecklenburgvorpommern-greifswald	ndr1mecklenburgvorpommern-hgw	ndr1mv-greifswald	ndr1mv-hgw
+https://ndr-edge-10ac-fra-dtag-cdn.cast.addradio.de/ndr/ndr1radiomv/rostock/mp3/128/stream.mp3	ndr1mecklenburgvorpommern-rostock	ndr1mecklenburgvorpommern-hro	ndr1mv-rostock	ndr1-hro
+https://ndr-edge-2041-dus-lg-cdn.cast.addradio.de/ndr/ndr1radiomv/neubrandenburg/mp3/128/stream.mp3	ndr1mecklenburgvorpommern-neubrandenburg	ndr1mecklenburgvorpommern-nb	ndr1mv-neubrandenburg	ndr1mv-nb
 http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u	ndr1hamburg	ndr1hh	ndr1903	ndr90.3	ndr1-90.3	ndr1-903
 http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u	ndr1schleswigholstein	ndr1sh	ndr1wellenord
+https://ndr-ndr1wellenord-kiel.sslcast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3	ndr1schleswigholstein-kiel	ndr1schleswigholstein-ki	ndr1sh-kiel	ndr1sh-ki	ndr1wellenord-kiel	ndr1wellenord-ki
+https://ndr-ndr1wellenord-flensburg.sslcast.addradio.de/ndr/ndr1wellenord/flensburg/mp3/128/stream.mp3	ndr1schleswigholstein-flensburg	ndr1schleswigholstein-fl	ndr1sh-flensburg	ndr1sh-fl	ndr1wellenord-flensburg	ndr1wellenord-fl
+https://ndr-ndr1wellenord-heide.sslcast.addradio.de/ndr/ndr1wellenord/heide/mp3/128/stream.mp3	ndr1schleswigholstein-heide	ndr1schleswigholstein-hei	ndr1sh-heide	ndr1sh-hei	ndr1wellenord-heide	ndr1wellenord-hei
+https://ndr-ndr1wellenord-luebeck.sslcast.addradio.de/ndr/ndr1wellenord/luebeck/mp3/128/stream.mp3	ndr1schleswigholstein-luebeck	ndr1schleswigholstein-hl	ndr1sh-luebeck	ndr1sh-hl	ndr1wellenord-luebeck	ndr1wellenord-hl
+https://ndr-edge-20ad-fra-lg-cdn.cast.addradio.de/ndr/ndr1wellenord/norderstedt/mp3/128/stream.mp3	ndr1schleswigholstein-norderstedt	ndr1schleswigholstein-se	ndr1sh-norderstedt	ndr1sh-se	ndr1wellenord-norderstedt	ndr1wellenord-se
 http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u	ndr2
+https://ndr-edge-2041-dus-lg-cdn.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3	ndrblue
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u	ndrkultur
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u	ndrinfo
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo_spezial.m3u	ndrinfospezial
@@ -61,6 +92,8 @@ http://www.ndr.de/resources/metadaten/audio/m3u/n-joy.m3u	ndrnjoy	njoy
 http://www.ndr.de/resources/metadaten/audio/m3u/ndrmusikplus.m3u	ndrmusikplus	musikplus
 # Radio Bremen (RB): Bremen
 http://httpmedia.radiobremen.de/bremeneins.m3u	rbeins	bremeneins
+https://www.radiobremen.de/stream/live/bremenzwei.m3u	rbzwei	bremenzwei
+https://rb-bremennext-live.sslcast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3	rbnext	bremennext
 http://httpmedia.radiobremen.de/bremenvier.m3u	rbvier	bremenvier
 http://httpmedia.radiobremen.de/nordwestradio.m3u	rbnordwest	nordwestradio	rbnordwestradio
 # Rundfunk Berlin-Brandenburg (RBB): Berlin, Brandenburg
@@ -75,13 +108,27 @@ http://streaming01.sr-online.de/sr1_2.m3u	sr1
 http://streaming01.sr-online.de/sr2_2.m3u	sr2	srkultur
 http://streaming01.sr-online.de/sr3_2.m3u	sr3
 http://streaming01.sr-online.de/unserding_2.m3u	srunserding	1037unserding	unserding	103.7unserding
+http://streaming01.sr-online.de/antennesaar_2.m3u	srantennesaar	antennesaar
 # Südwestrundfunk (SWR): Baden-Württemberg, Rhineland-Palatinate
 http://mp3-live.swr.de/swr1bw_m.m3u	swr1badenwuerttemberg	swr1bw
 http://mp3-live.swr.de/swr1rp_m.m3u	swr1rheinlandpfalz	swr1rp
 http://mp3-live.swr.de/swr2_m.m3u	swr2	swrkultur
 http://mp3-live.swr3.de/swr3_m.m3u	swr3
 http://mp3-live.swr.de/swr4bw_m.m3u	swr4badenwuerttemberg	swr4bw
+https://swr-swr4-fn.sslcast.addradio.de/swr/swr4/fn/aac/48/stream.aac swr4badenwuerttemberg-friedrichshafen swr4badenwuerttemberg-fn swr4bw-friedrichshafen swr4bw-fn
+https://swr-swr4-hn.sslcast.addradio.de/swr/swr4/hn/aac/48/stream.aac swr4badenwuerttemberg-heilbronn swr4badenwuerttemberg-hn swr4bw-heilbronn swr4bw-hn
+https://swr-swr4-ka.sslcast.addradio.de/swr/swr4/ka/aac/48/stream.aac swr4badenwuerttemberg-karlsruhe swr4badenwuerttemberg-ka swr4bw-karlsruhe swr4bw-ka
+https://swr-swr4-ma.sslcast.addradio.de/swr/swr4/ma/aac/48/stream.aac swr4badenwuerttemberg-mannheim swr4badenwuerttemberg-ma swrbw-mannheim swr4bw-ma 
+https://swr-swr4-bw.sslcast.addradio.de/swr/swr4/bw/aac/48/stream.aac swr4badenwuerttemberg-stuttgart swr4badenwuerttemberg-s swr4bw-stuttgart swr4bw-s
+https://swr-swr4-fr.sslcast.addradio.de/swr/swr4/fr/aac/48/stream.aac swr4badenwuerttemberg-suedbaden swr4badenwuerttemberg-freiburg swr4badenwuerttemberg-fr swr4bw-suedbaden swr4bw-freiburg swr4bw-fr
+https://swr-swr4-tu.sslcast.addradio.de/swr/swr4/tu/aac/48/stream.aac swr4badenwuerttemberg-tuebingen swr4badenwuerttemberg-tue swr4bw-tuebingen swr4bw-tue
+https://swr-swr4-ul.sslcast.addradio.de/swr/swr4/ul/aac/48/stream.aac swr4badenwuerttemberg-ulm swr4badenwuerttemberg-ul swr4bw-ulm swr4bw-ul
 http://mp3-live.swr.de/swr4rp_m.m3u	swr4rheinlandpfalz	swr4rp
+https://swr-swr4-kl.sslcast.addradio.de/swr/swr4/kl/aac/48/stream.aac swr4rheinlandpfalz-kaiserslautern swr4rheinlandpfalz-kl swr4rp-kaiserslautern swr4rp-kl
+https://swr-swr4-ko.sslcast.addradio.de/swr/swr4/ko/aac/48/stream.aac swr4rheinlandpfalz-koblenz swr4rheinlandpfalz-ko swr4rp-koblenz swr4rp-ko
+https://swr-swr4-lu.sslcast.addradio.de/swr/swr4/lu/aac/48/stream.aac swr4rheinlandpfalz-ludwigshafen swr4rheinlandpfalz-lu swr4rp-ludwigshafen swr4rp-lu
+https://swr-swr4-rp.sslcast.addradio.de/swr/swr4/rp/aac/48/stream.aac swr4rheinlandpfalz-mainz swr4rheinlandpfalz-mz swr4rp-mainz swr4rp-mz
+https://swr-swr4-tr.sslcast.addradio.de/swr/swr4/tr/aac/48/stream.aac swr4rheinlandpfalz-trier swr4rheinlandpfalz-tr swr4rp-trier swr4rp-tr 
 http://mp3-live.dasding.de/dasding_m.m3u	swrdasding	dasding
 https://swr-swraktuell-live.sslcast.addradio.de/swr/swraktuell/live/aac/48/stream.aac	swraktuell	swrinfo
 https://swr-swr2-live.sslcast.addradio.de/swr/swr2/live/aac/48/stream.aac	swr2archivradio	swr2archiv

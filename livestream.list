@@ -184,6 +184,41 @@ http://mfm1.webradiostreaming.de:8250/1	metropol	metropolfm
 https://sec-rtlberlin.hoerradar.de/rtlberlin-live-mp3-128	rtl104.6	rtl1046	104.6rtl	1046rtl
 https://stream.spreeradio.de/spree-live/mp3-128/konsole/	spreeradio	spreeradio1055	spreeradio105.5	1055spreeradio	105.5spreeradio
 http://streaming.radio.co/s774887f7b/listen.m3u	jazzradio	jazzradio106.8	jazzradio1068	1068jazzradio	106.8jazzradio
+### Switzerland
+## Public
+# French language
+http://stream.srg-ssr.ch/la-1ere/aacp_96.m3u lapremiere la-premiere
+http://stream.srg-ssr.ch/espace-2/aacp_96.m3u espace2 espace-2
+http://stream.srg-ssr.ch/couleur3/aacp_96.m3u couleur3 couleur-3
+http://stream.srg-ssr.ch/option-musique/aacp_96.m3u optionmusique option-musique
+http://stream.srg-ssr.ch/rsc_fr/aacp_96.m3u swiss-classic-fr swissclassic-fr
+# German language
+http://stream.srg-ssr.ch/drs1/aacp_96.m3u srf1
+http://stream.srg-ssr.ch/regi_ag_so/aacp_96.m3u srf1-ag-so srf1-ag srf1-so srf1-aargau srf1-solothurn srf1-aargau-solothurn
+http://stream.srg-ssr.ch/regi_bs_bl/aacp_96.m3u srf1-bs-bl srf1-bs srf1-bl srf1-basel srf1-baselstadt srf1-baselland srf1-baselstadt-baselland
+http://stream.srg-ssr.ch/regi_be_fr_vs/aacp_96.m3u srf1-be-fr-vs srf1-be srf1-fr srf1-vs srf1-bern srf1-freiburg srf1-wallis srf1-bern-freiburg-wallis
+http://stream.srg-ssr.ch/regi_ost/aacp_96.m3u srf1-ost srf1-gl srf1-glarus srf1-ar srf1-appenzellausserrhoden srf1-ai srf1-appenzellinnerrhoden srf1-sg srf1-sanktgallen srf1-stgallen srf1-tg srf1-thurgau
+http://stream.srg-ssr.ch/regi_gr/aacp_96.m3u srf1-gr srf1-graubuenden srf1-graubünden
+http://stream.srg-ssr.ch/regi_zentr/aacp_96.m3u srf1-zentral srf1-lu srf1-luzern srf1-ur srf1-uri srf1-sz srf1-schwyz srf1-ow srf1-obwalden srf1-nw srf1-nidwalden srf1-zg srf1-zug
+http://stream.srg-ssr.ch/regi_zh_sh/aacp_96.m3u srf1-zh-sh srf1-zh srf1-zuerich srf1-zürich srf1-sh srf1-schaffhausen srf1-zuerich-schaffhausen srf1-zürich-schaffhausen
+http://stream.srg-ssr.ch/drs2/aacp_96.m3u srf2-kultur srf2kultur srf2
+http://stream.srg-ssr.ch/drs3/aacp_96.m3u srf3
+http://stream.srg-ssr.ch/drs4news/aacp_96.m3u srf4 srfnews srf4-news
+http://stream.srg-ssr.ch/drsmw/aacp_96.m3u srf-mw srf-musikwelle srfmusikwelle srfmw
+http://stream.srg-ssr.ch/drsvirus/aacp_96.m3u srf-virus srfvirus
+http://stream.srg-ssr.ch/rsc_de/aacp_96.m3u swiss-classic-de swissclassic-de
+# International (English language)
+http://20073.live.streamtheworld.com/WRS.mp3 worldradioswitzerland worldradio-switzerland
+# Italian language
+http://stream.srg-ssr.ch/reteuno/aacp_96.m3u rete-uno reteuno
+http://stream.srg-ssr.ch/retedue/aacp_96.m3u rete-due retedue
+http://stream.srg-ssr.ch/retetre/aacp_96.m3u rete-tre retetre
+http://stream.srg-ssr.ch/rsc_it/aacp_96.m3u swiss-classic-it swissclassic-it
+# Multilingual
+http://stream.srg-ssr.ch/rsj/aacp_96.m3u swiss-jazz swissjazz
+http://stream.srg-ssr.ch/rsp/aacp_96.m3u swiss-pop swisspop
+# Romansh language
+http://stream.srg-ssr.ch/rr/aacp_96.m3u radio-rumantsch radiorumantsch
 ### United Kingdom
 ## Public
 # BBC

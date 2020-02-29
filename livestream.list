@@ -184,6 +184,14 @@ http://mfm1.webradiostreaming.de:8250/1	metropol	metropolfm
 https://sec-rtlberlin.hoerradar.de/rtlberlin-live-mp3-128	rtl104.6	rtl1046	104.6rtl	1046rtl
 https://stream.spreeradio.de/spree-live/mp3-128/konsole/	spreeradio	spreeradio1055	spreeradio105.5	1055spreeradio	105.5spreeradio
 http://streaming.radio.co/s774887f7b/listen.m3u	jazzradio	jazzradio106.8	jazzradio1068	1068jazzradio	106.8jazzradio
+### Liechtenstein
+## Public
+http://radiol.ice.infomaniak.ch/radiol.mp3 radioliechtenstein radio-liechtenstein
+http://radiol.ice.infomaniak.ch/rock.mp3 liechtenstein-rock radioliechtenstein-rock radio-liechtenstein-rock
+http://radiol.ice.infomaniak.ch/schlager.mp3 liechtenstein-schlager radioliechtenstein-schlager radio-liechtenstein-schlager
+http://radiol.ice.infomaniak.ch/country.mp3 liechtenstein-country radioliechtenstein-country radio-liechtenstein-country
+http://radiol.ice.infomaniak.ch/regio.mp3 liechtenstein-regio radioliechtenstein-regio radio-liechtenstein-regio
+http://radiol.ice.infomaniak.ch/love.mp3 liechtenstein-love radioliechtenstein-love radio-liechtenstein-love
 ### Switzerland
 ## Public
 # French language

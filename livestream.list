@@ -1,7 +1,6 @@
 #### List of stream urls of radio networks
 ### Austria
 ## Public
-# Countrywide
 https://oe1shoutcast.sf.apa.at/ oe1 orf1 orfoe1 ö1 orfö1
 https://oe2bshoutcast.sf.apa.at/ oe2burgenland oe2-burgenland oe2-b oe2b orf2burgenland orf2-burgenland orf2-b orf2b radioburgenland radio-burgenland ö2burgenland ö2-burgenland ö2-b ö2b
 https://oe2kshoutcast.sf.apa.at/ oe2kaernten oe2-kaernten oe2-k oe2k orf2kaernten orf2-kaernten orf2-k orf2k radiokaernten radio-kaernten oe2kärnten oe2-kärnten orf2kärnten orf2-kärnten radiokärnten radio-kärnten ö2kärnten ö2-kärnten ö2k ö2-k
@@ -17,7 +16,10 @@ https://fm4shoutcast.sf.apa.at/ fm4 orf4 orffm4 orf-fm4
 https://oe1campusshoutcast.sf.apa.at/ oe1campus orf1campus orfö1campus ö1campus orfö1campus
 http://livestream.agora.at/agora radioagora radio-agora
 ### France
-https://live-reflector.ice.infomaniak.ch/rfimonde-64.mp3	radiofranceinternationale	rfi	rfi-paris
+## Public
+https://live-reflector.ice.infomaniak.ch/rfimonde-64.mp3 radiofranceinternationale rfi rfi-paris
+https://icecast.radiofrance.fr/franceinter-hifi.aac?id=radiofrance franceinter france-inter
+https://icecast.radiofrance.fr/franceinfo-hifi.aac?id=radiofrance franceinfo france-info
 ### Germany
 ## Public
 # Countrywide

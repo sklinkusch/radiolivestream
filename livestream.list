@@ -197,6 +197,15 @@ http://radiol.ice.infomaniak.ch/schlager.mp3 liechtenstein-schlager radioliechte
 http://radiol.ice.infomaniak.ch/country.mp3 liechtenstein-country radioliechtenstein-country radio-liechtenstein-country
 http://radiol.ice.infomaniak.ch/regio.mp3 liechtenstein-regio radioliechtenstein-regio radio-liechtenstein-regio
 http://radiol.ice.infomaniak.ch/love.mp3 liechtenstein-love radioliechtenstein-love radio-liechtenstein-love
+### Netherlands
+## Public
+https://icecast.omroep.nl/radio1-bb-mp3 npo1 nporadio1
+https://icecast.omroep.nl/radio2-bb-mp3 npo2 nporadio2
+https://icecast.omroep.nl/3fm-bb-mp3 npo3 nporadio3 npo3fm
+https://icecast.omroep.nl/radio4-bb-mp3 npo4 nporadio4
+https://icecast.omroep.nl/radio5-bb-mp3 npo5 nporadio5
+https://icecast.omroep.nl/funx-bb-mp3 npofunx funx
+https://icecast.omroep.nl/radio6-bb-mp3 npo6 nporadio6 nposoul-jazz
 ### Switzerland
 ## Public
 # French language

@@ -5,7 +5,7 @@ use strict;
 use warnings;
 use FindBin;
 
-my %mpv_options = ("mp3" => "--volume-max 200 --cache-secs 20", "m3u" => "--volume-max 200 --cache-secs 20", "aac" => "--volume-max 200 --cache-secs 20", "else" => "--volume-max 200 --cache-secs 20");
+my %mpv_options = ("mp3" => "--volume-max=200 --cache-secs=20", "m3u" => "--volume-max=200 --cache-secs=20", "aac" => "--volume-max=200 --cache-secs=20", "else" => "--volume-max=200 --cache-secs=20");
 my %mpv = ("player" => "mpv", "options" => \%mpv_options);
 my %player = ("mpv" => \%mpv);
 

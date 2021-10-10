@@ -41,9 +41,9 @@ http://streams.br.de/bayern2nord_2.m3u	br2nord	brkulturnord
 http://streams.br.de/bayern2sued_2.m3u	br2sued	brkultursued
 http://streams.br.de/bayern3_2.m3u	br3	bayern3
 http://streams.br.de/br-klassik_2.m3u	brklassik
-http://streams.br.de/b5aktuell_2.m3u	b5aktuell	br5aktuell	brinfo
-http://streams.br.de/b5plus_2.m3u	b5plus
-http://streams.br.de/bayernplus_2.m3u	bayernplus	brplus
+http://streams.br.de/b5aktuell_2.m3u	b5aktuell	br5aktuell	brinfo	br24
+http://streams.br.de/b5plus_2.m3u	b5plus	br24live
+http://streams.br.de/bayernplus_2.m3u	bayernplus	brplus	brschlager	br-schlager
 http://streams.br.de/brheimat_2.m3u	brheimat
 http://streams.br.de/puls_2.m3u	brpuls	puls
 # Hessischer Rundfunk (HR): Hesse
@@ -51,7 +51,7 @@ http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u	hr1
 http://metafiles.gl-systemhaus.de/hr/hr2_2.m3u	hr2	hrkultur
 http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u	hr3
 http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u	hr4
-http://www.metafilegenerator.de/HR/hrinfo/mp3/webm.m3u	hrinfo
+http://metafiles.gl-systemhaus.de/hr/hrinfo_2.m3u	hrinfo
 http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u	hryoufm	youfm
 # Mitteldeutscher Rundfunk (MDR): Saxony, Saxony-Anhalt, Thuringia
 https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3	mdr1sachsen-dresden	mdr1sachsen-dd	mdr1sn-dresden	mdr1sn-dd
